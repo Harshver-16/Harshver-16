@@ -55,47 +55,9 @@
 
 </div>
 
----
 
-## 📊 Featured Projects
 
-<div align="center">
 
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|------------|------------|
-| 🏢 **Sales Dashboard** | Interactive KPI dashboard for sales performance tracking | Tableau, SQL, Python | [![Repo](https://img.shields.io/badge/GitHub-View%20Code-blue?logo=github)](https://github.com/Harshver-16/sales-dashboard) |
-| 📈 **Revenue Forecasting** | Time series analysis for quarterly revenue prediction | Python, Pandas, Scikit-learn | [![Repo](https://img.shields.io/badge/GitHub-View%20Code-blue?logo=github)](https://github.com/Harshver-16/revenue-forecasting) |
-| 🛒 **Customer Segmentation** | RFM analysis for targeted marketing strategies | SQL, Python, Tableau | [![Repo](https://img.shields.io/badge/GitHub-View%20Code-blue?logo=github)](https://github.com/Harshver-16/customer-segmentation) |
-| 💰 **Financial Analytics** | End-to-end pipeline for financial reporting automation | Python, MySQL, Power BI | [![Repo](https://img.shields.io/badge/GitHub-View%20Code-blue?logo=github)](https://github.com/Harshver-16/financial-analytics) |
-
-</div>
-
----
-
-## 🔥 Recent Repositories
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshver-16&repo=sales-dashboard&theme=tokyonight&hide_border=true)](https://github.com/Harshver-16/sales-dashboard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshver-16&repo=revenue-forecasting&theme=tokyonight&hide_border=true)](https://github.com/Harshver-16/revenue-forecasting)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshver-16&repo=customer-segmentation&theme=tokyonight&hide_border=true)](https://github.com/Harshver-16/customer-segmentation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshver-16&repo=financial-analytics&theme=tokyonight&hide_border=true)](https://github.com/Harshver-16/financial-analytics)
-
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshver-16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshver-16&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshver-16&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
@@ -141,15 +103,7 @@ Documentation 2 hrs 35 mins  ██░░░░░░░░░░░░░░░
 - ☕ Fueled by coffee and complex SQL queries
 - 🎯 Goal: To make data accessible and actionable for everyone
 
----
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [5 SQL Optimization Techniques Every Data Analyst Should Know](https://your-blog-link.com)
-- [Building Interactive Dashboards with Python and Streamlit](https://your-blog-link.com)
-- [Data Storytelling: Making Numbers Speak](https://your-blog-link.com)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
