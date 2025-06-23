@@ -1,45 +1,108 @@
-<h2 align="center">Hi 👋, I'm Harsh Verma — a Data Analyst from India</h2>
-
+Hi there! 👋 I'm Harsh Verma
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst+from+India;Turning+Data+into+Insights;SQL+%7C+Python+%7C+Tableau+Expert;Business+Intelligence+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</div>
 <p align="center">
-  🔍 I turn raw data into actionable insights using SQL, Python, and Tableau.<br>
-  💡 Passionate about solving business problems with analytics and storytelling.<br>
-  📊 Currently focused on forecasting, KPI dashboards, and end-to-end data projects.
+  <img src="https://komarev.com/ghpvc/?username=Harshver-16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Harshver-16?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
----
+🚀 About Me
 
-### 🧰 Tech Stack
+🔍 Data Analyst passionate about transforming raw data into actionable business insights
+💡 Specializing in SQL optimization, Python analytics, and Tableau dashboards
+📊 Currently working on forecasting models, KPI dashboards, and end-to-end data pipelines
+🎯 Focus areas: Business Intelligence, Data Visualization, Statistical Analysis
+🌱 Always learning new tools and techniques in the data ecosystem
+💬 Ask me about data storytelling, dashboard design, or SQL optimization
+
+
+🛠️ Tech Stack & Tools
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+Programming & Analysis
+Show Image
+Show Image
+Show Image
+Data Visualization
+Show Image
+Show Image
+Show Image
+Show Image
+Libraries & Frameworks
+Show Image
+Show Image
+Show Image
+Databases
+Show Image
+Show Image
+Show Image
+Tools & Platforms
+Show Image
+Show Image
+Show Image
+Show Image
 </div>
 
----
-
-### 📈 GitHub Stats
+📊 Featured Projects
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshver-16&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshver-16&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" height="150" />
+ProjectDescriptionTech Stack🏢 Sales DashboardInteractive KPI dashboard for sales performance trackingTableau, SQL, Python📈 Revenue ForecastingTime series analysis for quarterly revenue predictionPython, Pandas, Scikit-learn🛒 Customer SegmentationRFM analysis for targeted marketing strategiesSQL, Python, Tableau💰 Financial AnalyticsEnd-to-end pipeline for financial reporting automationPython, MySQL, Power BI
 </div>
 
----
+📈 GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshver-16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshver-16&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshver-16&theme=tokyonight&hide_border=true" />
+</div>
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/harshverma-data" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@JetFuryGaming" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
+🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshver-16&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
 
----
+📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+textSQL          12 hrs 30 mins  ████████████░░░░░  45.2%
+Python        8 hrs 15 mins  ███████░░░░░░░░░░  29.8%
+Tableau       4 hrs 20 mins  ████░░░░░░░░░░░░░  15.7%
+Documentation 2 hrs 35 mins  ██░░░░░░░░░░░░░░░   9.3%
+<!--END_SECTION:waka-->
 
-<img src="https://raw.githubusercontent.com/Harshver-16/Harshver-16/output/github-contribution-grid-snake.svg" alt="snake gif" width="100%"/>
+🌐 Connect With Me
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
+
+💡 Fun Facts
+
+🎮 Gaming enthusiast with a YouTube channel
+📚 Always exploring new data visualization techniques
+☕ Fueled by coffee and complex SQL queries
+🎯 Goal: To make data accessible and actionable for everyone
+
+
+📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+
+5 SQL Optimization Techniques Every Data Analyst Should Know
+Building Interactive Dashboards with Python and Streamlit
+Data Storytelling: Making Numbers Speak
+
+<!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Harshver-16/Harshver-16/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+<div align="center">
+  <b>⭐ Star my repositories if you find them helpful!</b><br>
+  <i>💼 Open to data analyst opportunities and collaboration</i>
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
